@@ -1,0 +1,6 @@
+Man1 Woman1 Woman2 Woman3
+Man2 Woman1 Woman3 Woman2
+Man3 Woman3 Woman2 Woman1
+Woman1 Man2 Man1 Man3
+Woman2 Man1 Man3 Man2
+Woman3 Man3 Man1 Man2
